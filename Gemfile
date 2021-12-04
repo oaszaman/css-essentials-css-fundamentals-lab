@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'rspec'
-gem 'nokogiri', '1.10.4'
-gem 'pry'
-gem 'css_parser'
+gem 'rspec', '~> 3.10'
+gem 'nokogiri', '~> 1.10', '>= 1.10.4'
+gem 'pry', '~> 0.14.1'
+gem 'css_parser', '~> 1.10'
